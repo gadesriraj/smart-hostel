@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hostel Management Platform",
+  "description": "A centralized digital platform for colleges and universities to manage hostel room allocation, complaints, visitors, notices, mess feedback, and administrative analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
